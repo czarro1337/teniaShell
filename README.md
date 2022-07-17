@@ -12,3 +12,16 @@ Release date will probably be somewhere around 15.07.2022
 
 Basic functions like installing pip packages, opening websites, sys information etc.
 You can hard-code your own commands, as teniaShell is open-source.
+
+# Requirements.
+
+- psutil
+- platform
+- datetime
+- ctypes
+- os
+- time
+- colorama
+- pwinput
+- win10toast
+
