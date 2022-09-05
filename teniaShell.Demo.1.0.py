@@ -22,8 +22,8 @@ site = lambda: os.system("start https://" + site_name)
 ## used for neofetch
 def get_size(bytes, suffix="B"):
     """
-    Scale bytes to its proper format
-    e.g:
+    Skalowanie bajtów na poprawny format
+    np:
         1253656 => '1.20MB'
         1253656678 => '1.17GB'
     """
@@ -45,7 +45,7 @@ print("Tenia Shell DEMO on tenia-v1.0-demo - running on Python")
 tenia_login = input("login >> ")
 tenia_password = pwinput.pwinput("password >> ")
 
-## Shell goes here.
+## Cały mój kod idzie tutaj xD.
 while True:
     ctypes.windll.kernel32.SetConsoleTitleW("teniaShell v1.0 - teniashell")
     ## Prompt
@@ -53,8 +53,8 @@ while True:
     ## Commands.
     if tenia_shell == "help":
         print("$ help - you are here!")
-        print("$ sysinfo - linux reference, it checks your computer.")
-        print("$ echo - prints your stuff.")
+        print("$ sysinfo - checks your computer.")
+        print("$ echo - prints what you input to the echo prompt.")
         print("$ exit - self explanatory.")
         print("$ command.com - ms-dos reference, tells you about the system.")
         print("$ clear - clears shell.")
