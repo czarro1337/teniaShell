@@ -50,3 +50,7 @@ That's a thing I really am concerned about. I mean I also fork code, or copy pas
 # Discord?
 
 I plan on making a community discord for teniaShell, possible discord coming soon
+
+# why are updates on czarro1337 and not bruhlnv?
+
+account lost sadly.
