@@ -45,7 +45,7 @@ I want to say thanks to all people passing by, or downloading the demo. I apprec
 
 # I want to make a teniaShell copy, can I fork it?
 
-That's a thing I really am concerned about. I mean I also fork code, or copy paste code from Stack Overflow. You can fork it! I would absolutely love to see what you did with teniaShell!
+teniaShell is FOSS! If you give credit, you can.
 
 # Discord?
 
@@ -54,3 +54,23 @@ I plan on making a community discord for teniaShell, possible discord coming soo
 # why are updates on czarro1337 and not bruhlnv?
 
 account lost sadly.
+
+# Progress!
+
+✅ Booting
+✅ Login screen
+✅ Login system
+✅ Main shell
+✅ Commands (there are some commands, but unfinished to 100%)
+✅ Setup / First-Time boot
+✅ Python3 PIP package installing from teniaShell
+✅ Login check if the username is the password and the password is the username - Result: it knows.
+❌ Discord RPC
+❌ Playing audio files from teniaShell level (or just hidden music player lul)
+❌ Linux Compatibility
+❌ teniafetch - the neofetch for teniaShell
+❌ PyNano - GNU nano for teniaShell and Windows.
+❌ .tsh extension
+❌ T-Shell programming (programming lang inside a programming lang, if it will be impossible, i will not code it.)
+❌ Code
+❌ Customization (prompt, etc)
