@@ -57,20 +57,19 @@ account lost sadly.
 
 # Progress!
 
-✅ Booting
-✅ Login screen
-✅ Login system
-✅ Main shell
-✅ Commands (there are some commands, but unfinished to 100%)
-✅ Setup / First-Time boot
-✅ Python3 PIP package installing from teniaShell
-✅ Login check if the username is the password and the password is the username - Result: it knows.
-❌ Discord RPC
-❌ Playing audio files from teniaShell level (or just hidden music player lul)
-❌ Linux Compatibility
-❌ teniafetch - the neofetch for teniaShell
-❌ PyNano - GNU nano for teniaShell and Windows.
-❌ .tsh extension
-❌ T-Shell programming (programming lang inside a programming lang, if it will be impossible, i will not code it.)
-❌ Code
-❌ Customization (prompt, etc)
+- ✅ Booting
+- ✅ Login screen
+- ✅ Login system
+- ✅ Main shell
+- ✅ Commands (there are some commands, but unfinished to 100%)
+- ✅ Setup / First-Time boot
+- ✅ Python3 PIP package installing from teniaShell
+- ✅ Login check if the username is the password and the password is the username - Result: it knows.
+- ❌ Discord RPC
+- ❌ Playing audio files from teniaShell level (or just hidden music player lul)
+- ❌ Linux Compatibility
+- ❌ teniafetch - the neofetch for teniaShell
+- ❌ PyNano - GNU nano for teniaShell and Windows.
+- ❌ .tsh extension
+- ❌ T-Shell programming (programming lang inside a programming lang, if it will be impossible, i will not code it.)
+- ❌ Customization (prompt, etc)
