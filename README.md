@@ -69,7 +69,5 @@ account lost sadly.
 - ❌ Playing audio files from teniaShell level (or just hidden music player lul)
 - ❌ Linux Compatibility
 - ❌ teniafetch - the neofetch for teniaShell
-- ❌ PyNano - GNU nano for teniaShell and Windows.
-- ❌ .tsh extension
-- ❌ T-Shell programming (programming lang inside a programming lang, if it will be impossible, i will not code it.)
+- ❌ PyNano - GNU nano for teniaShell and Windows. (standalone)
 - ❌ Customization (prompt, etc)
